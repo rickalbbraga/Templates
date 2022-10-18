@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>Template.Domain</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="DTOs\Requests" />
+      <Folder Include="Enums" />
+      <Folder Include="Interfaces\Repositories" />
+      <Folder Include="Interfaces\Services" />
+    </ItemGroup>
+
+</Project>

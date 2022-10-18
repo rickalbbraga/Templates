@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Ricardo Braga",
+    "classifications": [ "Web", "WebAPI" ],
+    "identity": "Custom.API.Template",
+    "name": "Custom API Template",
+    "shortName": "rabragaapi",
+    "sourceName": "Custom.API.Template",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "preferNameDirectory": true
+  }
