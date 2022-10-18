@@ -1,11 +1,11 @@
 {
     "$schema": "http://json.schemastore.org/template",
-    "author": "Ricardo Braga",
+    "author": "Banco Semear",
     "classifications": [ "Web", "WebAPI" ],
-    "identity": "Custom.API.Template",
+    "identity": "Template",
     "name": "Custom API Template",
-    "shortName": "rabragaapi",
-    "sourceName": "Custom.API.Template",
+    "shortName": "semearapi",
+    "sourceName": "Template",
     "tags": {
         "language": "C#",
         "type": "project"

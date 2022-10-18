@@ -3,9 +3,9 @@
   <PropertyGroup>
     <PackageType>Template</PackageType>
     <PackageVersion>1.0</PackageVersion>
-    <PackageId>RABraga.Utility.Templates</PackageId>
-    <Title>RAbraga Templates</Title>
-    <Authors>Ricardo Braga</Authors>
+    <PackageId>Template</PackageId>
+    <Title>Semear Templates</Title>
+    <Authors>Banco Semear</Authors>
     <Description>Templates to use when creating an application.</Description>
     <PackageTags>dotnet-new;templates;contoso</PackageTags>
     <TargetFramework>net6.0</TargetFramework>
@@ -13,6 +13,7 @@
     <IncludeContentInPack>true</IncludeContentInPack>
     <IncludeBuildOutput>false</IncludeBuildOutput>
     <ContentTargetFolders>content</ContentTargetFolders>
+    <NoDefaultExcludes>true</NoDefaultExcludes>
   </PropertyGroup>
 
   <ItemGroup>
